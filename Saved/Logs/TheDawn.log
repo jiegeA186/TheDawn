@@ -1287,3 +1287,51 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.04.17-23.38.41:234][368]LogContentValidation: Display: 正在验证/Script/Paper2D.PaperTileSet /Game/Assets/Environments/TS_DragonRoad_BG_TileSet.TS_DragonRoad_BG_TileSet
 [2024.04.17-23.38.41:234][368]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Assets/Environments/Textures/T_DragonRoad_BG.T_DragonRoad_BG
 [2024.04.17-23.38.55:944][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.17-23.39.48:812][ 31]LogContentBrowser: Deferred new asset file creation: TS_DragonRoad_TileMap
+[2024.04.17-23.39.48:820][ 31]LogContentBrowser: Creating deferred item: TS_DragonRoad_TileMap
+[2024.04.17-23.39.48:827][ 32]LogContentBrowser: Renaming the item being created (Deferred Item: TS_DragonRoad_TileMap).
+[2024.04.17-23.39.49:969][158]LogContentBrowser: Attempting asset rename: TS_DragonRoad_TileMap -> TS_DragonRoad_TileMap
+[2024.04.17-23.39.49:974][158]LogContentBrowser: End creating deferred item TS_DragonRoad_TileMap
+[2024.04.17-23.40.03:920][311]LogContentBrowser: Attempting asset rename: TS_DragonRoad_TileMap -> TMap_DragonRoad_TileMap
+[2024.04.17-23.40.03:951][311]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.17-23.40.03:976][311]LogSavePackage: Moving output files for package: /Game/Assets/Environments/TMap_DragonRoad_TileMap
+[2024.04.17-23.40.03:976][311]LogSavePackage: Moving 'C:/Users/Jason/Documents/Unreal Projects/TheDawn/Saved/TMap_DragonRoad_TileMapE224E41941FD6A68516708A1158E6DAD.tmp' to 'C:/Users/Jason/Documents/Unreal Projects/TheDawn/Content/Assets/Environments/TMap_DragonRoad_TileMap.uasset'
+[2024.04.17-23.40.03:982][311]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 1.03 sec)
+[2024.04.17-23.40.03:990][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.17-23.40.03:994][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.17-23.40.03:997][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.04.17-23.40.03:998][311]AssetCheck: New page: 资产保存：TMap_DragonRoad_TileMap
+[2024.04.17-23.40.03:998][311]LogContentValidation: Display: 正在验证/Script/Paper2D.PaperTileMap /Game/Assets/Environments/TMap_DragonRoad_TileMap.TMap_DragonRoad_TileMap
+[2024.04.17-23.40.05:733][518]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/Environments/TMap_DragonRoad_TileMap.TMap_DragonRoad_TileMap
+[2024.04.17-23.40.05:734][518]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-23.40.05:734][518]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-23.40.05:828][518]LogViewport: Scene viewport resized to 272x428, mode Windowed.
+[2024.04.17-23.40.05:833][518]LogViewport: Scene viewport resized to 757x538, mode Windowed.
+[2024.04.17-23.40.19:766][ 39]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-23.41.10:877][395]LogViewport: Scene viewport resized to 427x792, mode Windowed.
+[2024.04.17-23.41.10:883][395]LogViewport: Scene viewport resized to 1170x902, mode Windowed.
+[2024.04.17-23.49.06:580][394]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Assets/Environments/TS_DragonRoad_TileSet.TS_DragonRoad_TileSet
+[2024.04.17-23.49.06:584][394]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.17-23.49.06:584][394]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.17-23.49.06:641][394]LogViewport: Scene viewport resized to 1144x877, mode Windowed.
+[2024.04.17-23.49.06:649][394]LogViewport: Scene viewport resized to 763x423, mode Windowed.
+[2024.04.17-23.49.10:351][733]LogSlate: Window 'TS_DragonRoad_TileSet' being destroyed
+[2024.04.17-23.49.10:355][733]LogSlate: Window 'TS_DragonRoad_TileSet' being destroyed
+[2024.04.17-23.49.10:362][733]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-23.49.10:362][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-23.49.10:379][733]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.17-23.49.10:379][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.17-23.49.40:456][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.17-23.49.40:457][565]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main_Map' took 0.008
+[2024.04.17-23.49.40:458][565]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Environments/TMap_DragonRoad_TileMap] ([1] browsable assets)...
+[2024.04.17-23.49.40:458][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Environments/TMap_DragonRoad_TileMap]
+[2024.04.17-23.49.40:488][565]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Environments/TMap_DragonRoad_TileMap_Auto1
+[2024.04.17-23.49.40:488][565]LogSavePackage: Moving 'C:/Users/Jason/Documents/Unreal Projects/TheDawn/Saved/TMap_DragonRoad_TileMap_Auto1C53EAC7C4DC293A92ECA228B9B5EE4DD.tmp' to 'C:/Users/Jason/Documents/Unreal Projects/TheDawn/Saved/Autosaves/Game/Assets/Environments/TMap_DragonRoad_TileMap_Auto1.uasset'
+[2024.04.17-23.49.40:489][565]LogFileHelpers: Auto-saving content packages took 0.032
+[2024.04.18-00.08.07:104][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.18-00.08.07:108][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-00.08.07:163][514]LogSavePackage: Moving output files for package: /Game/Assets/Environments/TMap_DragonRoad_TileMap
+[2024.04.18-00.08.07:164][514]LogSavePackage: Moving 'C:/Users/Jason/Documents/Unreal Projects/TheDawn/Saved/TMap_DragonRoad_TileMapF87C89234522AD021B7618BCE1D0587D.tmp' to 'C:/Users/Jason/Documents/Unreal Projects/TheDawn/Content/Assets/Environments/TMap_DragonRoad_TileMap.uasset'
+[2024.04.18-00.08.07:169][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.09 sec)
+[2024.04.18-00.08.07:171][514]AssetCheck: New page: 资产保存：TMap_DragonRoad_TileMap
+[2024.04.18-00.08.07:171][514]LogContentValidation: Display: 正在验证/Script/Paper2D.PaperTileMap /Game/Assets/Environments/TMap_DragonRoad_TileMap.TMap_DragonRoad_TileMap
